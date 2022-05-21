@@ -1,0 +1,63 @@
+body{background-color: #fbfcfc; direction: rtl;  font-family: "B Koodak";  font-size: 17px;}
+/* header */
+#navbar-menu{background-color:#e2e6ea; }
+#btn1 , #btn2, #btn3, #btn4{box-shadow: 0 0 0 0 ; }
+#navbar ul{ list-style: none; margin-bottom:-3%; margin-top: -3%;}
+#navbar ul li{ padding: 10px 10px; margin-bottom: 0%;  display: inline }
+#navbar ul li:hover{ box-shadow: 0 0 8px 1px #d3d9df;}
+#menu-btn{ position: absolute; top: 4px; left: 1px; }
+
+#icon-bar ul{margin-top: 3px; margin-left: 3px;}
+#icon-bar ul li{margin-right: 8px; padding-top: 5px; padding-bottom: 2px;}
+#icon-bar ul li a{padding: 0 4px; font-size: 14px;  color: #343a40; }
+#icon-bar ul li:hover{box-shadow: 0 0 2px 1px #e2e6ea;  border-radius: 6px; background-color:#ecc03c}
+
+
+
+
+/* index */
+#menubar{margin-top: 4%;}
+#top-menu{padding-bottom: 5px;}
+#data{box-shadow: 0 0 0 0 #e2e6ea; margin-top: 2px; padding: 5px;}
+#data:hover{box-shadow: 0 0 2px 1px #e2e6ea; background-color:#ecc03c; }
+#box-srh{width: 50%;}
+#srh{box-shadow: 0 0 0 0 ; border: 2px solid #adb5bd;  margin-right: 1.0%;}
+#srh:hover{border: 2px solid #ecb204; border-radius: 5px}
+
+/* login */
+#login{ background-color: rgba(29, 148, 125, 0.3);   padding-top:20px;   border:0 solid #17a2b8;  font-size: 14px;
+    margin-top: 15%;  box-shadow: 0 0 15px 5px #ced4da;}
+#login-msg{ font-size: 14px;  color: #491217;   padding-top: 8px; padding-right: 5px; padding-left: 5px;}
+#box-login-msg{border-radius: 10px;}
+#login-form{ width: 70%; margin-top: 5%;   margin-bottom: 5%;   margin-right: 80px;}
+#form-head{ padding-bottom: 20px; color: #184d71;}
+#form-cheak{color: #184d71;   margin: 0px 30px;}
+#cheakbox{ width: 20px;  height: 20px;   margin-right: 3px;}
+#form-lbl{ padding-bottom:1px;}
+#form-lbl-a{ color: #184d71;}
+#form-lbl-b{color: #184d71;}
+#form-lbl-a:hover{color: #930d1a;  text-decoration: none;}
+#form-lbl-b:hover{ color: #930d1a;   text-decoration: none;}
+#pass{border: 3px solid #068594; border-radius:7px;}
+#text{border:3px solid #068594; border-radius:7px;}
+#login-btn{color: #343a40; border-radius:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+#head{}
+#base-login{margin-top: 95px;}
+#logo{}
+#menubar li a{  color: #184d71;   font-family:"B Koodak";   font-size: 17px;
+    margin: -8px;   padding-bottom: 1px;   padding-left: 30px;   padding-right: 30px;   padding-top: 1px;}
+#menu-icon li a:hover{  color: #f7f7f7;   font-family:"B Koodak";   font-size: 16px;}
+#menu-icon li a{ padding-left: 1px; margin-top: 2px;}
+#menu-icon-btn{ margin-right: 15px;  width: 70px; background-color:  #e2e6ea ; padding: 3px;}
+#menu-icon-btn:hover{background-color:#d1ecf1}
+#login{ padding-top:50px; border-right:1px solid #17a2b8;
+    border-bottom:1px solid #17a2b8;  margin-top: -5%; color: #f7f7f7;}
+#head-form{position: relative;   margin-top: -111px;}
+#head-lbl{
+    position: absolute;
+    font-size: 18px;
+    color:#002752;
+    border:1px solid #17a2b8;
+    border-radius: 2px;
+    padding: 5px 15px;
+    margin-right: -10px;
+    margin-top: 20px;
+}
+#head-img{ margin-right: -8px;}
+#login-form{ width: 70%; margin-top: 5%;   margin-bottom: 5%;   margin-right: 80px;}
+#login-msg{ font-size: 16px;  color: #491217;   padding-top: 8px;}
+#form-cheak{color: #002752;   margin: 0px 30px;}
+#cheakbox{ width: 20px;  height: 20px;   margin-right: 3px;}
+#form-lbl{ padding-bottom:1px;}
+#form-lbl-a{ color: #002752;}
+#form-lbl-b{color: #002752;}
+#form-lbl-a:hover{color: #930d1a;  text-decoration: none;}
+#form-lbl-b:hover{ color: #930d1a;   text-decoration: none;}
+#contact{background-color: rgba(29, 148, 125, 0.2);   padding: 30px 50px;}
+.ul li{list-style:none;   line-height: 40px;   margin-right: -50px;   border-bottom: 1px solid #002752;}
+.ul li a{color: #184d71;}
+#srh{border: 2px solid #17a2b8;}
+#pass{border: 2px solid #17a2b8;}
+#text{border: 2px solid #068594;}
+
+
+/* mobile.css code */
+
+
+#login{ background-color: rgba(29, 148, 125, 0.2);   padding-top:50px;   border:0 solid #17a2b8;  font-size: 14px;
+    margin-top: -12%;}
+#arm-log{ width:180px; margin-right: -5%;}
+#login-form{ width: 70%; margin-top: 7%;  margin-bottom: 5%;  margin-right: 15%;}
+#login-msg{font-size: 14px;  padding-top: 8px;}
+#cheakbox{ width: 16px;  height: 16px;  margin-right: 3px;}
+#form-cheak{ margin: 0px 25px;}
+#pass{ border: 2px solid #17a2b8;}
+#text{ border: 2px solid #068594; }
+#accordion{ width: 150px; }
+.card{ width: 150px;}
+#menu-icon-btn{ width: 50px;}
+#FDMainMenu{position: relative; margin-right: -13%;}
+#menubar li a{  color: #184d71;   font-size: 15px; margin-bottom: 20px;
+    margin-top: 10px;   padding-bottom:0;   padding-left: 15px;   padding-right: 15px;   padding-top:0;}
+#menubar li a:hover{color: #fbfcfc;   font-size: 14px;}
+#menu-icon{margin-left:35px; margin-top: -12%}
+#menu-icon li{width: 15px; height: 15px; padding: 0 7px; margin: 0 7px;}
+#menu-icon li a{ padding-left: 10px; padding-right: 1px; margin-top:4px;  width: 15px; height: 15px;}
+.icon{}
+#menu-icon-btn{ margin-right: 5px; margin-left: 5px;  width: 50px; font-size: 14px}
+
